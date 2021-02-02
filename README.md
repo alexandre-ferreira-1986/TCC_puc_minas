@@ -7,7 +7,7 @@ Conteúdo:
 1) Jupyter notebook para analisar dados de Arrecadação Federal
 2) Jupyter notebook para analisar dados da Arrecadação de São Paulo
 3) Base de Dados utilizadas
-4) Bases de Dados Importadas
+4) Bases de Dados Importadas (Originais, de onde montou-se as bases utilizadas)
 5) Trabalho de Conclusão de curso
 6) Mini apresentação (Exigência inicial)
 
