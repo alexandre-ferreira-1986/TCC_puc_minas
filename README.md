@@ -10,3 +10,5 @@ Conteúdo:
 4) Bases de Dados Importadas
 5) Trabalho de Conclusão de curso
 6) Mini apresentação (Exigência inicial)
+
+Para rodar localmente ou no Colab, inserir os arquivos: 'Arrecadacao_Federal_2.xlsx' e 'Receita_SP.xlsx', para cada jupyter respectivamente.
